@@ -1,7 +1,7 @@
 # My Projects
 
-## [1. Faked Twitch WebSite ](https://jackersyu.github.io/front-end-learning/twitch_v2/twitch_v2/)
-![](https://ppt.cc/fP7idx@.png)
+## [1. Faked Twitch WebSite ](https://jackersyu.github.io/Twitch_API_Practice/)
+![](https://ppt.cc/fmEJCx@.png)
 ## [2. Javascript Game](https://jackersyu.github.io/Web_fullstack/javascript/colorGame/self)
 ![](https://ppt.cc/fY5Jfx@.png)
 ## [3. Phone Game Assistance](https://www.youtube.com/watch?v=ZmtLhOGr0aQ&feature=youtu.be)
