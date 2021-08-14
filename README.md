@@ -9,5 +9,5 @@
 ## [4. Genetic Algorithm Application On Game](https://www.youtube.com/watch?v=CHSHgE0Kohk&feature=youtu.be)
 ![](https://ppt.cc/fcM99x@.png)
 ## [5. BMI CALCULATOR](https://jackersyu.github.io/bmi_cal)
-![](https://ppt.cc/fdR2ex)
+![](https://ppt.cc/fdR2ex@.png)
 
